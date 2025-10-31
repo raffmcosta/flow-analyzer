@@ -1,0 +1,12 @@
+{
+  "name": "flow-analyzer-proxy",
+  "version": "1.0.0",
+  "description": "Proxy para Flow Analyzer Figma Plugin",
+  "main": "api/analyze.js",
+  "scripts": {
+    "test": "echo \"No tests\" && exit 0"
+  },
+  "keywords": ["figma", "plugin", "proxy"],
+  "author": "Você",
+  "license": "MIT"
+}
