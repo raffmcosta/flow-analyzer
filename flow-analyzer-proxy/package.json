@@ -1,5 +1,12 @@
 {
   "name": "flow-analyzer-proxy",
+  "version": "1.0.0"
+}{
+  "name": "flow-analyzer-proxy",
+  "version": "1.0.0",
+  "type": "module"
+}{
+  "name": "flow-analyzer-proxy",
   "version": "1.0.0",
   "type": "module",
   "description": "CORS proxy for Flow Analyzer Figma plugin",
